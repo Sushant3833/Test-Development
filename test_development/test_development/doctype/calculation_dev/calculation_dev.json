@@ -28,14 +28,14 @@
    "label": "  num3"
   },
   {
-   "fieldname": "operation",
+   "fieldname": "Operation",
    "fieldtype": "Data",
    "label": "operation"
   },
   {
-   "fieldname": "result",
+   "fieldname": "Result",
    "fieldtype": "Data",
-   "label": "result"
+   "label": "cal_result"
   }
  ],
  "grid_page_length": 50,
